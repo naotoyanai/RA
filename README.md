@@ -1,8 +1,8 @@
 # Ra
--This is a copied repository of https://github.com/wanidon/RA as behavior of the co-author of the following paper.
--Authors: Yuichiro Chinen, Naoto Yanai, Jason Paul Cruz, Shingo Okamura
--Title: Hunting for Re-Entrancy Attacks in Ethereum Smart Contracts via Static Analysis
--https://arxiv.org/abs/2007.01029
+- This is a copied repository of https://github.com/wanidon/RA as behavior of the co-author of the following paper.
+- Authors: Yuichiro Chinen, Naoto Yanai, Jason Paul Cruz, Shingo Okamura
+- Title: Hunting for Re-Entrancy Attacks in Ethereum Smart Contracts via Static Analysis
+- https://arxiv.org/abs/2007.01029
 ## Requirement
 - Python3 (confirmed 3.6)
 - Python modules
